@@ -2,10 +2,10 @@
 
 [Link](https://drive.google.com/file/d/1VNTXPv9Fgr51BtUgJNZy8jErjT7Yjx5x/view)
 
-![screenshot](.images/emp1.png)
-![screenshot](.images/emp2.png)
-![screenshot](.images/emp3.png)
-![screenshot](.images/emp4.png)
+![screenshot](./images/emp1.png)
+![screenshot](./images/emp2.png)
+![screenshot](./images/emp3.png)
+![screenshot](./images/emp4.png)
 
 
 ## Description 
