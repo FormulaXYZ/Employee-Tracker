@@ -8,6 +8,7 @@ VALUES ('peter', 'sagan', 1, null),
         ('chris', 'rock', 6, null);
 
 
+-- Department start here --
 INSERT INTO department (department_name)
 VALUES ('Management'),
        ('Human Resources'),
@@ -15,7 +16,7 @@ VALUES ('Management'),
        ('Accounting'),
        ('Reception');
 
-
+-- Role of the employees listed under --
 INSERT INTO role (title, salary, department_id)
   VALUES('CEO', 200000, null),
         ('General Manager', 150000, 1),
